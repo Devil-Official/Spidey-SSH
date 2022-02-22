@@ -7,8 +7,10 @@
     <img src="https://telegra.ph/file/81126672c2dad75a131c6.jpg" alt="Logo" width="200" height="200">
   </a>
 
-  <h3 align="center">★ 𝑺𝑷𝑰𝑫𝑬𝒀 𝑺𝑺𝑯 ★</h3> 
+  <h3 align="center">★ 𝑺𝑷𝑰𝑫𝑬𝒀 𝑺𝑺𝑯 ★</h3>
   
+  __________________𝗪𝗔𝗥𝗡𝗜𝗡𝗚 ❌_________________
+  :::::::::;;;;: ᴅᴏ ɴᴏᴛ ᴇᴅɪᴛ ᴛʜɪꜱ ʀᴇᴘᴏ ᴡɪᴛʜᴏᴜᴛ ᴇʜɪᴛᴇ ᴅᴇᴠɪʟ'ꜱ ᴘᴇʀᴍɪꜱꜱɪᴏɴ :::::::::::::
 ### Installation
 1. Install Python
    ```sh
