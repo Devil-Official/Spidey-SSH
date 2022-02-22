@@ -1,7 +1,7 @@
 # coding: utf-8
 
 """
- coded by Anubiskun
+ coded by ᵂᴴᴵᵀᴱ ᴰᴱⱽᴵᴸ
 """
 
 from os import system
@@ -135,8 +135,8 @@ class SSH:
 def Menu():
 	print("""
    \x1b[1;93m 
-█▀ █▀█ █ █▀▄ █▀▀ █▄█   █▀ █▀ █░█
-▄█ █▀▀ █ █▄▀ ██▄ ░█░   ▄█ ▄█ █▀█
+    █▀ █▀█ █ █▀▄ █▀▀ █▄█   █▀ █▀ █░█
+    ▄█ █▀▀ █ █▄▀ ██▄ ░█░   ▄█ ▄█ █▀█
 \x1b[1;97m   ©WHITE DEVIL × DO NOT BE MY ENEMY
 \x1b[1;91m>-----------------------------------<
 \x1b[1;96m  {\x1b[1;92m1\x1b[1;96m} \x1b[1;97mCREATE SSL/TLS MONTHLY
