@@ -128,7 +128,7 @@ class SSH:
 			print("\x1b[1;91m>-----------------------------------<")
 			Membuat_ssh(serverid, cookie, user, pasw, chekin)
 		if cek_2.find("div", class_="progress-bar progress-bar-danger") is not None:
-			exit("  \x1b[1;97m[\x1b[1;91m#\x1b[1;97m] ACCOUNT NOT AVAILABLE\n      SILAHKAN PILIH SERVER LAIN..\n")
+			exit("  \x1b[1;97m[\x1b[1;91m#\x1b[1;97m] ACCOUNT NOT AVAILABLE\n      Try Another Server Please..\n   It is not this tool error, it Is speedssh.com Site Error \n")
 			time.sleep(2)
 			system('python '+sys.argv[0])
 
