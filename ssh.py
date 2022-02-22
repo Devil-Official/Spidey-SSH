@@ -22,7 +22,7 @@ def Membuat_ssl(id, cookies, user, pw, server):
 	head = {"Host":"www.speedssh.com","Connection":"keep-alive","Accept":"*/*","Origin":"https://www.speedssh.com","X-Requested-With":"XMLHttpRequest","User-Agent":acak,"Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Referer":server,"Accept-Encoding":"gzip, deflate","Accept-Language":"id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7"}
 	posd = post("https://www.speedssh.com/create-ssl-30-days.php", headers=head, data=data, cookies={"PHPSESSID":cookies}).text
 	if "Your Account has been successfully created !" in posd:
-		print("  \x1b[1;91m>>> \x1b[1;97mACCOUNT \x1b[1;92mBERHASIL \x1b[1;97mDIBUAT")
+		print("  \x1b[1;91m>>> \x1b[1;97mACCOUNT \x1b[1;92mSUCCESS \x1b[1;97mCREATED")
 		print("  \x1b[1;91m> \x1b[1;97mUSERNAME \x1b[1;91m:\x1b[1;92m "+re.search("Username\s\s:\s(.*?)<br>", str(posd)).group(1))
 		print("  \x1b[1;91m> \x1b[1;97mPASSWORD \x1b[1;91m:\x1b[1;92m "+re.search("Password\s\s:\s(.*?)<br>", str(posd)).group(1))
 		print("  \x1b[1;91m> \x1b[1;97mHOST     \x1b[1;91m:\x1b[1;92m "+re.search("Host\sIP\s\s\s:\s(.*?)<br>", str(posd)).group(1))
@@ -44,7 +44,7 @@ def Membuat_ssh(id, cookies, user, pw, server):
 	head = {"Host":"www.speedssh.com","Connection":"keep-alive","Accept":"*/*","Origin":"https://www.speedssh.com","X-Requested-With":"XMLHttpRequest","User-Agent":acak,"Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Referer":server,"Accept-Encoding":"gzip, deflate","Accept-Language":"id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7"}
 	posd = post("https://www.speedssh.com/create-ssh-30-days.php", headers=head, data=data, cookies={"PHPSESSID":cookies}).text
 	if "Your Account has been successfully created !" in posd:
-		print("  \x1b[1;91m>>> \x1b[1;97mACCOUNT \x1b[1;92mBERHASIL \x1b[1;97mDIBUAT")
+		print("  \x1b[1;91m>>> \x1b[1;97mACCOUNT \x1b[1;92mCREATED \x1b[1;97mSUCESS")
 		print("  \x1b[1;91m> \x1b[1;97mUSERNAME \x1b[1;91m:\x1b[1;92m "+re.search("Username\s\s:\s(.*?)<br>", str(posd)).group(1))
 		print("  \x1b[1;91m> \x1b[1;97mPASSWORD \x1b[1;91m:\x1b[1;92m "+re.search("Password\s\s:\s(.*?)<br>", str(posd)).group(1))
 		print("  \x1b[1;91m> \x1b[1;97mHOST     \x1b[1;91m:\x1b[1;92m "+re.search("Host\sIP\s\s\s:\s(.*?)<br>", str(posd)).group(1))
