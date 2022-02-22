@@ -91,7 +91,7 @@ class SSL_TLS:
 			print("\x1b[1;91m>-----------------------------------<")
 			Membuat_ssl(serverid, cookie, user, pasw, chekin)
 		if cek_2.find("div", class_="progress-bar progress-bar-danger") is not None:
-			exit("  \x1b[1;97m[\x1b[1;91m#\x1b[1;97m] ACCOUNT NOT AVAILABLE\n      SILAHKAN PILIH SERVER LAIN..\n")
+			exit("  \x1b[1;97m[\x1b[1;91m#\x1b[1;97m] ACCOUNT NOT AVAILABLE\n      TRY ANOTHER SERVER..\n THIS IS NOT A TOOL ERROR.. IT IS A speedssh.com Site Error ")
 			time.sleep(2)
 			system('python '+sys.argv[0])
 
