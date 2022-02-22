@@ -13,7 +13,7 @@
   
   :::::::::::::: ᴅᴏ ɴᴏᴛ ᴇᴅɪᴛ ᴛʜɪꜱ ʀᴇᴘᴏ ᴡɪᴛʜᴏᴜᴛ ᴇʜɪᴛᴇ ᴅᴇᴠɪʟ'ꜱ ᴘᴇʀᴍɪꜱꜱɪᴏɴ :::::::::::::
   
-### Installation
+### Termux Installation
 1. Install Python
    ```sh
    pkg install python
@@ -32,6 +32,34 @@
    ```sh
    python -m pip install beautifulsoup4
    ```
+4. Clone the repo
+   ```sh
+   git clone https://github.com/oshara145/Spidey-Ssh/blob/main/README.md
+   ```
+5. go to directory ssh creator
+   ```sh
+   cd ssh-creator
+   ```
+6. Run ssh.py
+   ```sh
+   python ssh.py
+   ```
+   
+   ### Vps Installation 
+   1. Install Python
+   ```sh
+   pkg install python
+   ```
+2. Install Git
+   ```sh
+   pkg install git
+   ```
+3. Install requests, bs4, BeautifulSoup4
+   ```sh
+   pip3 install -U -r requirements.txt
+
+   ```
+  
 4. Clone the repo
    ```sh
    git clone https://github.com/oshara145/Spidey-Ssh/blob/main/README.md
