@@ -1,4 +1,4 @@
-✘ ᴄᴏɴᴛᴀᴄᴛ ᴏᴡɴᴇʀ - [ᑕᒪIᑕK ᕼEᖇE](t.me/WhiteDevilOp999)
+✘ ᴄᴏɴᴛᴀᴄᴛ ᴏᴡɴᴇʀ - [ᑕᒪIᑕK ᕼEᖇE](https://t.me/WhiteDevilOp999)
 
 <!-- PROJECT LOGO -->
 <br />
