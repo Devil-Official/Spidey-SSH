@@ -81,7 +81,7 @@
 
 ## 🌺 VPS ɪɴᴛᴇʀꜰᴀᴄᴇ
 <p align="center">
-  <img src="https://telegra.ph/file/fb486c42dc4b62868cc08.jpg">
+  <img src="https://telegra.ph/file/12b9ec9b10ce7e817f6cf.jpg">
 </p>
 
 
