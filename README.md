@@ -74,7 +74,7 @@
    ```sh
    python ssh.py
    ```
-##🌺 ᴛᴇʀᴍᴜx ɪɴᴛᴇʀꜰᴀᴄᴇ
+## 🌺 ᴛᴇʀᴍᴜx ɪɴᴛᴇʀꜰᴀᴄᴇ
 <p align="center">
   <img src="https://telegra.ph/file/21d9d21af063518326b07.jpg">
 </p>
