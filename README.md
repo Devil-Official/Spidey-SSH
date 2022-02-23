@@ -38,7 +38,7 @@
    ```
 5. go to directory ssh creator
    ```sh
-   cd ssh-creator
+   cd Spidey-Ssh
    ```
 6. Run ssh.py
    ```sh
@@ -68,7 +68,7 @@
    ```
 5. go to directory ssh creator
    ```sh
-   cd ssh-creator
+   cd Spidey-Ssh
    ```
 6. Run ssh.py
    ```sh
