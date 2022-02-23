@@ -34,7 +34,7 @@
    ```
 4. Clone the repo
    ```sh
-   git clone https://github.com/oshara145/Spidey-Ssh/blob/main/README.md
+   git clone https://github.com/oshara145/Spidey-Ssh
    ```
 5. go to directory ssh creator
    ```sh
