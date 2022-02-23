@@ -45,6 +45,8 @@
    python ssh.py
    ```
    
+   
+   
    # Vps Installation 
    1. Install Python
    ```sh
@@ -72,6 +74,10 @@
    ```sh
    python ssh.py
    ```
+##🌺 ᴛᴇʀᴍᴜx ɪɴᴛᴇʀꜰᴀᴄᴇ
+<p align="center">
+  <img src="https://telegra.ph/file/fb486c42dc4b62868cc08.jpg">
+</p>
 
 ░██╗░░░░░░░██╗██╗░░██╗██╗████████╗███████╗
 ░██║░░██╗░░██║██║░░██║██║╚══██╔══╝██╔════╝
