@@ -76,7 +76,7 @@
    ```
 ##🌺 ᴛᴇʀᴍᴜx ɪɴᴛᴇʀꜰᴀᴄᴇ
 <p align="center">
-  <img src="https://telegra.ph/file/fb486c42dc4b62868cc08.jpg">
+  <img src="https://telegra.ph/file/21d9d21af063518326b07.jpg">
 </p>
 
 ░██╗░░░░░░░██╗██╗░░██╗██╗████████╗███████╗
